@@ -1,0 +1,14 @@
+baseURL: https://21twelve.org/
+languageCode: en-us
+title: 21twelve
+theme: spectral
+
+params:
+  fancyTitle: 21twelve
+  description: Jesus said to them, "Come and have breakfast."<br />John 21:12 (ESV)
+  menu:
+    main:
+      - url: /
+        title: Home
+      - url: /expositories/mark
+        title: Expositories

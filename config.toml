@@ -1,7 +1,0 @@
-baseURL = 'https://21twelve.org/'
-languageCode = 'en-us'
-title = '21twelve'
-theme = 'ananke'
-
-[params]
-  recent_posts_number = 0
